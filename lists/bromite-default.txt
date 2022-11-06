@@ -3,3 +3,13 @@
 # This list is automatically overwritten with the official source at https://github.com/bromite/filters/blob/master/lists.txt
 
 # If you do not want to generate the default list, you can just delete this file
+
+https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all
+https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+https://anti-ad.net/easylist.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://www.i-dont-care-about-cookies.eu/abp/
+https://raw.githubusercontent.com/sbwml/halflife-list/master/ad.txt
+https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-edentw.txt
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/allow.txt
