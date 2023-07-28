@@ -13,5 +13,5 @@ https://raw.githubusercontent.com/sbwml/halflife-list/master/ad.txt
 https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-edentw.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 #https://raw.githubusercontent.com/Cats-Team/AdRules/main/allow.txt
-https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+#https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 #https://raw.githubusercontent.com/Cats-Team/AdRules/main/allow-domains-list.txt
